@@ -6,7 +6,7 @@ Next, the steps to install and run the project locally are detailed.
 
 ### 1. Clone the repository
 ```
-git clone <url>
+git clone https://github.com/ASASauqui/Thresholded-chart.git
 ```
 
 ### 2. Modules installation

@@ -1,7 +1,7 @@
 <h1><b>Thresholded chart</b></h1>
 
 <div align="center">
-    <img width="50%" src="https://github.com/ASASauqui/Car-license-plate-detector-and-reader/blob/main/Readme%20Images/methodology/methodology_8.png?raw=true" />
+    <img width="70%" src="https://github.com/ASASauqui/Thresholded-chart/blob/master/public/chart.png?raw=true" />
     <p>Chart demonstration.</p>
 </div><br>
 

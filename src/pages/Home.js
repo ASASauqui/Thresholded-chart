@@ -9,7 +9,7 @@ function Home() {
         return Array.from({ length: length }, () => Math.floor(Math.random() * maxValue) + 1);
     },
     [values, setValue] = useState(randomize()),
-    [threshold, setThreshold] = useState(Math.floor(Math.random() * maxValue) + 1);
+    [threshold, setThreshold] = useState( Math.floor(Math.random() * maxValue) + 1 );
 
     return (
         <div className="w-full h-full flex flex-col justify-center items-center">
